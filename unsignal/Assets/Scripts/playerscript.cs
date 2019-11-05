@@ -42,7 +42,7 @@ public class playerscript : MonoBehaviour {
             mySpriteRenderer.flipX = true;
         }
 
-        Debug.Log ("fuck you!");
+
 
         //Store the current vertical input in the float moveVertical.
         float moveVertical = Input.GetAxis ("Vertical");
